@@ -1,1 +1,2 @@
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ananazzo)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ananazzo&layout=donut&langs_count=4&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Ananazzo&layout=donut&langs_count=4&hide_values=true&theme=dark)
